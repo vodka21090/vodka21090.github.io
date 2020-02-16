@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Phuong Duy Nguyen",
+    "occupation": "Full Stack JS Developer",
+    "description": "I have more than 5 years experience working on Ionic, Cordova, Angular, NodeJS, React, React-Native, Android.",
+    "image": "profilepic.jpg",
+    "bio": "Hi, My name is Phuong. I have more than 5 years experience working on Ionic, Cordova, Angular, NodeJS, React and React-Native, Android.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Email : vodka21090@gmail.com",
+    "phone": "Phone Number : 0898-3979-48",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Nha Trang",
+      "state": "Khanh Hoa",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kenny.nguyen.1291",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/phuong-nguyen-82ab7b13b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "skype",
+        "url": "skype:vodka21090?userinfo",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programing Skills",
+    "education": [
+      {
+        "school": "Troy University",
+        "degree": "Computer Science",
+        "graduated": "October 2008 - October-2013",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "INFOdation",
+        "title": "Full Stack Developer ",
+        "years": "March 2010 - Present",
+        "description": "Full Stack Developer - Develop Some Web Apps, Mobile Apps and APIs"
+      },
+      {
+        "company": "ZDH Consulting",
+        "title": "Android Developer",
+        "years": "October 2014 - February 2010",
+        "description": "Android Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+
+      {
+        "name": "React & React-Native",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5 & CSS",
+        "level": "80%"
+      },
+      {
+        "name": "IONIC",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ScoutCentral-WebSite",
+        "category": "A React based ScoutCentral Website",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://scoutcentral.nl/"
+      },
+      {
+        "title": "ScoutCentral - Mobile",
+        "category": "Mobile app using react-native",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.infodation.ScoutCentral&hl=vi"
+      },
+      {
+        "title": "VUReflect - Mobile",
+        "category": "Mobile App using ionic3 and cordova angular 4",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.infodation.VuReflect&hl=vi"
+      },
+      {
+        "title": "VUReflect Website",
+        "category": "A Angular based VUReflect website",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Kikker - Mobile",
+        "category": "React-native I built for using energy",
+        "image": "original-thai-food.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.infodation.my_kikker&hl=vi"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
