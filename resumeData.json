@@ -2,7 +2,7 @@
   "main": {
     "name": "Phuong Duy Nguyen",
     "occupation": "Full Stack JS Developer",
-    "description": "I have more than 5 years experience working on Ionic, Cordova, Angular, NodeJS, React, React-Native, Android.",
+    "description": "I have more than 6 years experience working on Ionic, Cordova, Angular, NodeJS, React, React-Native, Android.",
     "image": "profilepic.jpg",
     "bio": "Hi, My name is Phuong. I have more than 5 years experience working on Ionic, Cordova, Angular, NodeJS, React and React-Native, Android.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -48,13 +48,13 @@
       {
         "company": "INFOdation",
         "title": "Full Stack Developer ",
-        "years": "March 2010 - Present",
+        "years": "March 2016 - Present",
         "description": "Full Stack Developer - Develop Some Web Apps, Mobile Apps and APIs"
       },
       {
         "company": "ZDH Consulting",
         "title": "Android Developer",
-        "years": "October 2014 - February 2010",
+        "years": "October 2014 - February 2016",
         "description": "Android Developer"
       }
     ],
