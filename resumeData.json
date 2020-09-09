@@ -137,6 +137,18 @@
         "category": "React-native I built for using energy",
         "image": "original-thai-food.jpg",
         "url": "https://play.google.com/store/apps/details?id=com.infodation.my_kikker&hl=vi"
+      },
+      {
+        "title": "Kikker - Website",
+        "category": "Angular built for web application",
+        "image": "original-thai-food.jpg",
+        "url": "https://kikker.nl/#/"
+      },
+      {
+        "title": "Homee",
+        "category": "Web application built with stack is NodeJs, Koa, MongoDb, React, React-Redux",
+        "image": "original-thai-food.jpg",
+        "url": "https://kikker.nl/#/"
       }
     ]
   },
